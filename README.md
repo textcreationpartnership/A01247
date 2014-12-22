@@ -36,55 +36,12 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES
-Agreed vpon and concluded betweene
-the victorious, excellent, high
-and mighty Prince and Lo
+
 #####Body#####
 
 1. Articles agreed vpon, betweene
 His Excellence the Prinee of Orange,
 and the vanquiſhed Towne of S'Hertogenboſh.
-
-    _ 1.
-
-    _ 2.
-
-    _ 3.
-
-    _ 4
-
-    _ 5
-
-    _ 6
-
-    _ 7
-
-    _ 8
-
-    _ 9
-
-    _ 10
-
-    _ 11
-
-    _ 12
-
-    _ 13
-
-    _ 14
-
-    _ 15
-
-    _ 16
-
-    _ 17
-
-    _ 18
-
-    _ 19
-
-    _ 20
 
 1. Articles, granted by His Excellence
 the Prince of Orange, vnto the Gouernour
@@ -163,29 +120,25 @@ There are 2 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__label__|5||
-|14.|__langUsage__|1||
-|15.|__language__|1| @__ident__ (1) : eng (1)|
-|16.|__listPrefixDef__|1||
-|17.|__note__|6||
-|18.|__notesStmt__|2||
-|19.|__p__|11||
-|20.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|21.|__profileDesc__|1||
-|22.|__projectDesc__|1||
-|23.|__pubPlace__|2||
-|24.|__publicationStmt__|2||
-|25.|__publisher__|2||
-|26.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|27.|__revisionDesc__|1||
-|28.|__seriesStmt__|1||
-|29.|__sourceDesc__|1||
-|30.|__title__|5||
-|31.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__label__|5||
+|12.|__langUsage__|1||
+|13.|__language__|1| @__ident__ (1) : eng (1)|
+|14.|__listPrefixDef__|1||
+|15.|__note__|6||
+|16.|__notesStmt__|2||
+|17.|__p__|11||
+|18.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|19.|__projectDesc__|1||
+|20.|__pubPlace__|2||
+|21.|__publicationStmt__|2||
+|22.|__publisher__|2||
+|23.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|24.|__seriesStmt__|1||
+|25.|__sourceDesc__|1||
+|26.|__title__|5||
+|27.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -193,23 +146,21 @@ There are 2 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__argument__|2||
-|2.|__body__|1||
-|3.|__closer__|1||
-|4.|__date__|1||
-|5.|__dateline__|1||
-|6.|__desc__|2||
-|7.|__div__|23| @__type__ (23) : title_page (1), truce (1), concessions (1), concession (20)  •  @__n__ (20) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1)|
-|8.|__front__|1||
-|9.|__g__|47| @__ref__ (47) : char:EOLhyphen (44), char:punc (3)|
-|10.|__gap__|2| @__reason__ (2) : illegible: under-inked (2)  •  @__extent__ (2) : 1 letter (2)|
-|11.|__head__|22||
-|12.|__hi__|38||
-|13.|__item__|2||
-|14.|__lb__|1||
-|15.|__list__|1||
-|16.|__p__|38||
-|17.|__pb__|12| @__facs__ (12) : tcp:2927:1 (2), tcp:2927:2 (2), tcp:2927:3 (2), tcp:2927:4 (2), tcp:2927:5 (2), tcp:2927:6 (2)  •  @__rendition__ (1) : simple:additions (1)  •  @__n__ (9) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1)|
-|18.|__q__|1||
-|19.|__seg__|2| @__rend__ (2) : decorInit (2)|
-|20.|__signed__|1||
-|21.|__trailer__|1||
+|2.|__closer__|1||
+|3.|__date__|1||
+|4.|__dateline__|1||
+|5.|__desc__|2||
+|6.|__div__|23| @__type__ (23) : title_page (1), truce (1), concessions (1), concession (20)  •  @__n__ (20) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1)|
+|7.|__g__|47| @__ref__ (47) : char:EOLhyphen (44), char:punc (3)|
+|8.|__gap__|2| @__reason__ (2) : illegible: under-inked (2)  •  @__extent__ (2) : 1 letter (2)|
+|9.|__head__|22||
+|10.|__hi__|38||
+|11.|__item__|2||
+|12.|__lb__|1||
+|13.|__list__|1||
+|14.|__p__|38||
+|15.|__pb__|12| @__facs__ (12) : tcp:2927:1 (2), tcp:2927:2 (2), tcp:2927:3 (2), tcp:2927:4 (2), tcp:2927:5 (2), tcp:2927:6 (2)  •  @__rendition__ (1) : simple:additions (1)  •  @__n__ (9) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1)|
+|16.|__q__|1||
+|17.|__seg__|2| @__rend__ (2) : decorInit (2)|
+|18.|__signed__|1||
+|19.|__trailer__|1||
